@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MandiPrice AI</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<header>
+    <h2>🌾 MandiPrice AI</h2>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Prediction</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+
+    <div class="left">
+
+        <h1>
+            Predict Tomorrow's
+            <span>Crop Price</span>
+            Today.
+        </h1>
+
+        <p>
+            AI Powered Crop Price Prediction for Indian Farmers.
+        </p>
+
+        <button>
+            Predict Price
+        </button>
+
+    </div>
+
+    <div class="right">
+
+        <div class="card">
+
+            <h2>Today's Market</h2>
+
+            <p>🌽 Tomato</p>
+
+            <h1>₹2200 / Quintal</h1>
+
+            <p>Expected Next Week</p>
+
+            <h2 style="color:green;">
+                ₹2750 ↑
+            </h2>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="prediction">
+
+<h2>Price Prediction</h2>
+
+<form action="/predict" method="POST">
+
+<select name="crop">
+
+<option>Select Crop</option>
+
+<option>Tomato</option>
+
+<option>Onion</option>
+
+<option>Cotton</option>
+
+<option>Soybean</option>
+
+<option>Wheat</option>
+
+</select>
+
+<select name="state">
+
+<option>Select State</option>
+
+<option>Maharashtra</option>
+
+<option>Karnataka</option>
+
+<option>Gujarat</option>
+
+</select>
+
+<input
+type="text"
+name="district"
+placeholder="District"> 
+
+<button type="submit">
+
+Predict
+
+</button>
+
+{% if prediction %}
+<div class="result-card">
+    <h3>{{ prediction }}</h3>
+    <div class="result-metrics">
+        <div>
+            <span class="result-label">Predicted Price</span>
+            <strong>₹{{ predicted_price }} / Quintal</strong>
+        </div>
+        <div>
+            <span class="result-label">Confidence</span>
+            <strong>{{ confidence }}%</strong>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+</form>
+
+</section>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>

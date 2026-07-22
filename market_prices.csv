@@ -1,0 +1,41 @@
+crop,state,district,price
+Tomato,Maharashtra,Pune,2200
+Tomato,Maharashtra,Nashik,2100
+Tomato,Karnataka,Bengaluru,2400
+Tomato,Karnataka,Hubli,2300
+Tomato,Gujarat,Ahmedabad,2350
+Tomato,Gujarat,Surat,2250
+Tomato,Rajasthan,Jaipur,2500
+Tomato,Rajasthan,Ajmer,2450
+Onion,Maharashtra,Pune,1800
+Onion,Maharashtra,Nashik,1750
+Onion,Karnataka,Bengaluru,2000
+Onion,Karnataka,Hubli,1950
+Onion,Gujarat,Ahmedabad,1900
+Onion,Gujarat,Surat,1850
+Onion,Rajasthan,Jaipur,2050
+Onion,Rajasthan,Ajmer,1980
+Cotton,Gujarat,Ahmedabad,6500
+Cotton,Gujarat,Surat,6200
+Cotton,Maharashtra,Nashik,6100
+Cotton,Maharashtra,Pune,5900
+Cotton,Karnataka,Bengaluru,6300
+Cotton,Karnataka,Hubli,6150
+Cotton,Rajasthan,Jaipur,6400
+Cotton,Rajasthan,Ajmer,6250
+Soybean,Maharashtra,Nashik,4200
+Soybean,Maharashtra,Pune,4100
+Soybean,Madhya Pradesh,Indore,4000
+Soybean,Madhya Pradesh,Bhopal,3900
+Soybean,Rajasthan,Jaipur,4300
+Soybean,Rajasthan,Ajmer,4250
+Soybean,Gujarat,Ahmedabad,4150
+Soybean,Gujarat,Surat,4050
+Wheat,Uttar Pradesh,Agra,2200
+Wheat,Uttar Pradesh,Meerut,2150
+Wheat,Punjab,Ludhiana,2300
+Wheat,Punjab,Amritsar,2250
+Wheat,Haryana,Faridabad,2180
+Wheat,Haryana,Hisar,2130
+Wheat,Rajasthan,Jaipur,2240
+Wheat,Rajasthan,Ajmer,2190
