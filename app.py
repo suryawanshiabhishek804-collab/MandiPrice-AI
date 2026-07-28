@@ -61,6 +61,34 @@ def build_model():
 MODEL, TRAINING_DATA, MODEL_SCORE = build_model()
 
 
+@app.context_processor
+def inject_global_template_data():
+    valid_crops = sorted({value.strip() for value in TRAINING_DATA["crop"].astype(str).tolist()})
+    valid_states = sorted({value.strip() for value in TRAINING_DATA["state"].astype(str).tolist()})
+    
+    selected_crop = ""
+    selected_state = ""
+    selected_district = ""
+    if request.method == "POST":
+        selected_crop = request.form.get("crop", "").strip()
+        selected_state = request.form.get("state", "").strip()
+        selected_district = request.form.get("district", "").strip()
+        
+    crop_averages = {k: int(round(v)) for k, v in TRAINING_DATA.groupby("crop")["price"].mean().to_dict().items()}
+        
+    return {
+        "crops": valid_crops,
+        "states": valid_states,
+        "selected_crop": selected_crop,
+        "selected_state": selected_state,
+        "selected_district": selected_district,
+        "crop_averages": crop_averages,
+        "prediction": None,
+        "predicted_price": None,
+        "confidence": None
+    }
+
+
 def validate_inputs(crop, state, district):
     errors = []
 

@@ -39,3 +39,716 @@ Wheat,Haryana,Faridabad,2180
 Wheat,Haryana,Hisar,2130
 Wheat,Rajasthan,Jaipur,2240
 Wheat,Rajasthan,Ajmer,2190
+Aloe Vera,Andaman and Nicobar Islands,Nicobar,1200
+Anthurium,Andaman and Nicobar Islands,North and Middle Andaman,15900
+Apple,Andaman and Nicobar Islands,South Andaman,8150
+Arecanut,Andhra Pradesh,Anantapur,32900
+Ashwagandha,Andhra Pradesh,Chittoor,23000
+Banana,Andhra Pradesh,East Godavari,2450
+Barley,Andhra Pradesh,Guntur,1550
+Bengal Gram (Chana),Andhra Pradesh,Krishna,5350
+Bitter Gourd (Karela),Andhra Pradesh,Kurnool,2200
+Black Gram (Urad),Andhra Pradesh,Nellore,6450
+Black Pepper,Andhra Pradesh,Prakasam,44500
+Bottle Gourd (Lauki),Andhra Pradesh,Srikakulam,1100
+Brinjal,Andhra Pradesh,Visakhapatnam,1700
+Cabbage,Andhra Pradesh,Vizianagaram,1100
+Capsicum,Andhra Pradesh,West Godavari,3300
+Cardamom (Elaichi),Andhra Pradesh,YSR Kadapa,138000
+Carnation,Arunachal Pradesh,Anjaw,10000
+Carrot,Arunachal Pradesh,Changlang,1850
+Cashewnut,Arunachal Pradesh,Dibang Valley,7700
+Castor Seed,Arunachal Pradesh,East Kameng,6300
+Cauliflower,Arunachal Pradesh,East Siang,1550
+Chili (Red),Arunachal Pradesh,Kra Daadi,1800
+Chrysanthemum,Arunachal Pradesh,Kurung Kumey,6200
+Cinnamon,Arunachal Pradesh,Lohit,25500
+Cloves,Arunachal Pradesh,Longding,63700
+Cocoa,Arunachal Pradesh,Lower Dibang Valley,22200
+Coconut,Arunachal Pradesh,Lower Siang,2600
+Coffee,Arunachal Pradesh,Lower Subansiri,24450
+Coriander,Arunachal Pradesh,Namsai,6400
+Cotton,Arunachal Pradesh,Papum Pare,6550
+Cowpea (Lobia),Arunachal Pradesh,Siang,5100
+Cucumber,Arunachal Pradesh,Tawang,1450
+Cumin (Jeera),Arunachal Pradesh,Tirap,30900
+Custard Apple,Arunachal Pradesh,Upper Siang,3850
+Drumstick (Moringa),Arunachal Pradesh,Upper Subansiri,2600
+Elephant Foot Yam (Suran),Arunachal Pradesh,West Kameng,2200
+Fennel (Saunf),Arunachal Pradesh,West Siang,12000
+Fenugreek (Methi),Assam,Baksa,5800
+Finger Millet (Ragi),Assam,Barpeta,4000
+French Beans,Assam,Biswanath,4050
+Garlic,Assam,Bongaigaon,9150
+Ginger,Assam,Cachar,7650
+Grapes,Assam,Charaideo,6750
+Green Chili,Assam,Chirang,2950
+Green Gram (Moong),Assam,Darrang,8450
+Groundnut,Assam,Dhemaji,6300
+Guava,Assam,Dhubri,2850
+Jackfruit,Assam,Dibrugarh,1550
+Jasmine,Assam,Dima Hasao,11750
+Jute,Assam,Goalpara,4800
+Lemon,Assam,Golaghat,5000
+Lemongrass,Assam,Hailakandi,5200
+Lentil (Masur),Assam,Hojai,6100
+Lime,Assam,Jorhat,4800
+Linseed,Assam,Kamrup,5150
+Litchi,Assam,Kamrup Metropolitan,8450
+Mace,Assam,Karbi Anglong,89100
+Maize,Assam,Karimganj,2100
+Mango,Assam,Kokrajhar,6050
+Marigold,Assam,Lakhimpur,2400
+Mentha (Pudina),Assam,Majuli,7750
+Mesta,Assam,Morigaon,4800
+Muskmelon,Assam,Nagaon,1150
+Niger Seed,Assam,Nalbari,8100
+Nutmeg,Assam,Sivasagar,47700
+Oats,Assam,Sonitpur,1900
+Okra (Bhindi),Assam,South Salmara Mankachar,2250
+Onion,Assam,Tinsukia,1950
+Orange,Assam,Udalguri,4600
+Orchid,Assam,West Karbi Anglong,20800
+Paddy (Dhan),Bihar,Araria,2250
+Papaya,Bihar,Arwal,2150
+Peach,Bihar,Aurangabad,6500
+Pear,Bihar,Banka,5350
+Pearl Millet (Bajra),Bihar,Begusarai,2800
+Peas,Bihar,Bhagalpur,3600
+Peas (Matar),Bihar,Bhojpur,4700
+Pigeon Peas (Arhar/Tur),Bihar,Buxar,7700
+Pineapple,Bihar,Darbhanga,3850
+Plum,Bihar,East Champaran Motihari,6200
+Pomegranate,Bihar,Gaya,9600
+Potato,Bihar,Gopalganj,1600
+Pumpkin,Bihar,Jamui,1050
+Radish,Bihar,Jehanabad,1150
+Rajma,Bihar,Kaimur Bhabua,8450
+Rapeseed & Mustard,Bihar,Katihar,6150
+Ridge Gourd (Torai),Bihar,Khagaria,2050
+Rose,Bihar,Kishanganj,8550
+Rubber,Bihar,Lakhisarai,16350
+Safflower,Bihar,Madhepura,6000
+Sesame (Til),Bihar,Madhubani,9800
+Sorghum (Jowar),Bihar,Munger Monghyr,3400
+Soybean,Bihar,Muzaffarpur,5050
+Spinach,Bihar,Nalanda,1500
+Strawberry,Bihar,Nawada,12800
+Sugarcane,Bihar,Patna,330
+Sunflower,Bihar,Purnia Purnea,7550
+Sweet Potato,Bihar,Rohtas,1650
+Tamarind,Bihar,Saharsa,3750
+Tea,Bihar,Samastipur,18700
+Tobacco,Bihar,Saran,10050
+Tomato,Bihar,Sheikhpura,2400
+Tulip,Bihar,Sheohar,28500
+Tulsi (Basil),Bihar,Sitamarhi,4200
+Turmeric,Bihar,Siwan,8000
+Turnip,Bihar,Supaul,1200
+Watermelon,Bihar,Vaishali,870
+Wheat,Bihar,West Champaran,2500
+Aloe Vera,Chandigarh,Chandigarh,1150
+Anthurium,Chhattisgarh,Balod,13050
+Apple,Chhattisgarh,Baloda Bazar,7350
+Arecanut,Chhattisgarh,Balrampur,32550
+Ashwagandha,Chhattisgarh,Bastar,21500
+Banana,Chhattisgarh,Bemetara,2350
+Barley,Chhattisgarh,Bijapur,1500
+Bengal Gram (Chana),Chhattisgarh,Bilaspur,5150
+Bitter Gourd (Karela),Chhattisgarh,Dantewada South Bastar,2300
+Black Gram (Urad),Chhattisgarh,Dhamtari,6500
+Black Pepper,Chhattisgarh,Durg,47500
+Bottle Gourd (Lauki),Chhattisgarh,Gariyaband,1100
+Brinjal,Chhattisgarh,Janjgir Champa,1600
+Cabbage,Chhattisgarh,Jashpur,1150
+Capsicum,Chhattisgarh,Kabirdham Kawardha,3150
+Cardamom (Elaichi),Chhattisgarh,Kanker North Bastar,141000
+Carnation,Chhattisgarh,Kondagaon,9400
+Carrot,Chhattisgarh,Korba,1700
+Cashewnut,Chhattisgarh,Korea Koriya,7050
+Castor Seed,Chhattisgarh,Mahasamund,5850
+Cauliflower,Chhattisgarh,Mungeli,1400
+Chili (Red),Chhattisgarh,Narayanpur,1550
+Chrysanthemum,Chhattisgarh,Raigarh,5500
+Cinnamon,Chhattisgarh,Raipur,24000
+Cloves,Chhattisgarh,Rajnandgaon,61100
+Cocoa,Chhattisgarh,Sukma,20200
+Coconut,Chhattisgarh,Surajpur,2150
+Coffee,Chhattisgarh,Surguja,22800
+Coriander,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,6400
+Cotton,Dadra and Nagar Haveli and Daman and Diu,Daman,6950
+Cowpea (Lobia),Dadra and Nagar Haveli and Daman and Diu,Diu,5200
+Cucumber,Delhi,Central Delhi,1450
+Cumin (Jeera),Delhi,East Delhi,28800
+Custard Apple,Delhi,New Delhi,3800
+Drumstick (Moringa),Delhi,North Delhi,2300
+Elephant Foot Yam (Suran),Delhi,North East Delhi,2150
+Fennel (Saunf),Delhi,North West Delhi,11150
+Fenugreek (Methi),Delhi,Shahdara,5550
+Finger Millet (Ragi),Delhi,South Delhi,3650
+French Beans,Delhi,South East Delhi,3650
+Garlic,Delhi,South West Delhi,8600
+Ginger,Delhi,West Delhi,7400
+Grapes,Goa,North Goa,7550
+Green Chili,Goa,South Goa,3150
+Green Gram (Moong),Gujarat,Amreli,9300
+Groundnut,Gujarat,Anand,7200
+Guava,Gujarat,Aravalli,3150
+Jackfruit,Gujarat,Banaskantha Palanpur,1650
+Jasmine,Gujarat,Bharuch,12950
+Jute,Gujarat,Bhavnagar,5450
+Lemon,Gujarat,Botad,5250
+Lemongrass,Gujarat,Chhota Udepur,5250
+Lentil (Masur),Gujarat,Dahod,7100
+Lime,Gujarat,Dangs Ahwa,4950
+Linseed,Gujarat,Devbhoomi Dwarka,5950
+Litchi,Gujarat,Gandhinagar,8400
+Mace,Gujarat,Gir Somnath,99900
+Maize,Gujarat,Jamnagar,2200
+Mango,Gujarat,Junagadh,6600
+Marigold,Gujarat,Kachchh,2650
+Mentha (Pudina),Gujarat,Kheda Nadiad,8450
+Mesta,Gujarat,Mahisagar,5250
+Muskmelon,Gujarat,Mehsana,1250
+Niger Seed,Gujarat,Morbi,8800
+Nutmeg,Gujarat,Narmada Rajpipla,49500
+Oats,Gujarat,Navsari,2250
+Okra (Bhindi),Gujarat,Panchmahal Godhra,2400
+Onion,Gujarat,Patan,1950
+Orange,Gujarat,Porbandar,4950
+Orchid,Gujarat,Rajkot,22400
+Paddy (Dhan),Gujarat,Sabarkantha Himmatnagar,2300
+Papaya,Gujarat,Surendranagar,2200
+Peach,Gujarat,Tapi Vyara,6350
+Pear,Gujarat,Vadodara,5550
+Pearl Millet (Bajra),Gujarat,Valsad,2600
+Peas,Haryana,Ambala,3100
+Peas (Matar),Haryana,Bhiwani,4600
+Pigeon Peas (Arhar/Tur),Haryana,Charkhi Dadri,6700
+Pineapple,Haryana,Fatehabad,3600
+Plum,Haryana,Gurgaon,5600
+Pomegranate,Haryana,Jhajjar,9250
+Potato,Haryana,Jind,1400
+Pumpkin,Haryana,Kaithal,960
+Radish,Haryana,Karnal,1100
+Rajma,Haryana,Kurukshetra,7550
+Rapeseed & Mustard,Haryana,Mahendragarh,5450
+Ridge Gourd (Torai),Haryana,Mewat,1750
+Rose,Haryana,Palwal,7500
+Rubber,Haryana,Panchkula,14250
+Safflower,Haryana,Panipat,6000
+Sesame (Til),Haryana,Rewari,8250
+Sorghum (Jowar),Haryana,Rohtak,3050
+Soybean,Haryana,Sirsa,4750
+Spinach,Haryana,Sonipat,1400
+Strawberry,Haryana,Yamunanagar,11750
+Sugarcane,Himachal Pradesh,Bilaspur,340
+Sunflower,Himachal Pradesh,Chamba,7300
+Sweet Potato,Himachal Pradesh,Hamirpur,1650
+Tamarind,Himachal Pradesh,Kangra,3700
+Tea,Himachal Pradesh,Kinnaur,18900
+Tobacco,Himachal Pradesh,Kullu,9550
+Tomato,Himachal Pradesh,Lahaul andamp Spiti,2500
+Tulip,Himachal Pradesh,Mandi,26000
+Tulsi (Basil),Himachal Pradesh,Shimla,4400
+Turmeric,Himachal Pradesh,Sirmaur Sirmour,7550
+Turnip,Himachal Pradesh,Solan,1250
+Watermelon,Himachal Pradesh,Una,860
+Wheat,Jammu and Kashmir,Anantnag,2150
+Aloe Vera,Jammu and Kashmir,Bandipore,1050
+Anthurium,Jammu and Kashmir,Baramulla,14250
+Apple,Jammu and Kashmir,Budgam,7650
+Arecanut,Jammu and Kashmir,Doda,32900
+Ashwagandha,Jammu and Kashmir,Ganderbal,23000
+Banana,Jammu and Kashmir,Jammu,2150
+Barley,Jammu and Kashmir,Kargil,1600
+Bengal Gram (Chana),Jammu and Kashmir,Kathua,4700
+Bitter Gourd (Karela),Jammu and Kashmir,Kishtwar,2200
+Black Gram (Urad),Jammu and Kashmir,Kulgam,6350
+Black Pepper,Jammu and Kashmir,Kupwara,43000
+Bottle Gourd (Lauki),Jammu and Kashmir,Leh,1100
+Brinjal,Jammu and Kashmir,Poonch,1500
+Cabbage,Jammu and Kashmir,Pulwama,1050
+Capsicum,Jammu and Kashmir,Rajouri,3000
+Cardamom (Elaichi),Jammu and Kashmir,Ramban,139500
+Carnation,Jammu and Kashmir,Reasi,9600
+Carrot,Jammu and Kashmir,Samba,1650
+Cashewnut,Jammu and Kashmir,Shopian,6500
+Castor Seed,Jammu and Kashmir,Srinagar,5750
+Cauliflower,Jammu and Kashmir,Udhampur,1450
+Chili (Red),Jharkhand,Bokaro,2050
+Chrysanthemum,Jharkhand,Chatra,6800
+Cinnamon,Jharkhand,Deoghar,28750
+Cloves,Jharkhand,Dhanbad,68250
+Cocoa,Jharkhand,Dumka,23750
+Coconut,Jharkhand,East Singhbhum,2850
+Coffee,Jharkhand,Garhwa,25400
+Coriander,Jharkhand,Giridih,6800
+Cotton,Jharkhand,Godda,7250
+Cowpea (Lobia),Jharkhand,Gumla,5750
+Cucumber,Jharkhand,Hazaribag,1600
+Cumin (Jeera),Jharkhand,Jamtara,33900
+Custard Apple,Jharkhand,Khunti,4450
+Drumstick (Moringa),Jharkhand,Koderma,2800
+Elephant Foot Yam (Suran),Jharkhand,Latehar,2350
+Fennel (Saunf),Jharkhand,Lohardaga,13050
+Fenugreek (Methi),Jharkhand,Pakur,6700
+Finger Millet (Ragi),Jharkhand,Palamu,4300
+French Beans,Jharkhand,Ramgarh,4450
+Garlic,Jharkhand,Ranchi,10250
+Ginger,Jharkhand,Sahibganj,9100
+Grapes,Jharkhand,Seraikela Kharsawan,7700
+Green Chili,Jharkhand,Simdega,3300
+Green Gram (Moong),Jharkhand,West Singhbhum,9400
+Groundnut,Karnataka,Bagalkot,6400
+Guava,Karnataka,Ballari Bellary,3000
+Jackfruit,Karnataka,Belagavi Belgaum,1450
+Jasmine,Karnataka,Bengaluru Bangalore Rural,11600
+Jute,Karnataka,Bengaluru Bangalore Urban,5150
+Lemon,Karnataka,Bidar,4850
+Lemongrass,Karnataka,Chamarajanagar,4950
+Lentil (Masur),Karnataka,Chikballapur,6300
+Lime,Karnataka,Chikkamagaluru Chikmagalur,4800
+Linseed,Karnataka,Chitradurga,5550
+Litchi,Karnataka,Dakshina Kannada,7650
+Mace,Karnataka,Davangere,90000
+Maize,Karnataka,Dharwad,1900
+Mango,Karnataka,Gadag,5750
+Marigold,Karnataka,Hassan,2300
+Mentha (Pudina),Karnataka,Haveri,7900
+Mesta,Karnataka,Kalaburagi Gulbarga,4750
+Muskmelon,Karnataka,Kodagu,1150
+Niger Seed,Karnataka,Kolar,7950
+Nutmeg,Karnataka,Koppal,44100
+Oats,Karnataka,Mandya,1850
+Okra (Bhindi),Karnataka,Mysuru Mysore,2100
+Onion,Karnataka,Raichur,1900
+Orange,Karnataka,Ramanagara,4500
+Orchid,Karnataka,Shivamogga Shimoga,20600
+Paddy (Dhan),Karnataka,Tumakuru Tumkur,2100
+Papaya,Karnataka,Udupi,2050
+Peach,Karnataka,Uttara Kannada Karwar,5900
+Pear,Karnataka,Vijayapura Bijapur,4750
+Pearl Millet (Bajra),Karnataka,Yadgir,2500
+Peas,Kerala,Alappuzha,3100
+Peas (Matar),Kerala,Ernakulam,4050
+Pigeon Peas (Arhar/Tur),Kerala,Idukki,6300
+Pineapple,Kerala,Kannur,3150
+Plum,Kerala,Kasaragod,4950
+Pomegranate,Kerala,Kollam,8550
+Potato,Kerala,Kottayam,1350
+Pumpkin,Kerala,Kozhikode,1000
+Radish,Kerala,Malappuram,1000
+Rajma,Kerala,Palakkad,7350
+Rapeseed & Mustard,Kerala,Pathanamthitta,5100
+Ridge Gourd (Torai),Kerala,Thiruvananthapuram,1800
+Rose,Kerala,Thrissur,7350
+Rubber,Kerala,Wayanad,15000
+Safflower,Ladakh,Leh,5550
+Sesame (Til),Ladakh,Kargil,8500
+Sorghum (Jowar),Lakshadweep,Agatti,3050
+Soybean,Lakshadweep,Amini,4400
+Spinach,Lakshadweep,Androth,1200
+Strawberry,Lakshadweep,Bithra,10550
+Sugarcane,Lakshadweep,Chethlath,280
+Sunflower,Lakshadweep,Kadmath,6250
+Sweet Potato,Lakshadweep,Kalpeni,1400
+Tamarind,Lakshadweep,Kavaratti,3250
+Tea,Lakshadweep,Kilthan,16900
+Tobacco,Lakshadweep,Minicoy,8350
+Tomato,Madhya Pradesh,Agar Malwa,2550
+Tulip,Madhya Pradesh,Alirajpur,27750
+Tulsi (Basil),Madhya Pradesh,Anuppur,4400
+Turmeric,Madhya Pradesh,Ashoknagar,8550
+Turnip,Madhya Pradesh,Balaghat,1300
+Watermelon,Madhya Pradesh,Barwani,850
+Wheat,Madhya Pradesh,Betul,2400
+Aloe Vera,Madhya Pradesh,Bhind,1250
+Anthurium,Madhya Pradesh,Burhanpur,16200
+Apple,Madhya Pradesh,Chhatarpur,8950
+Arecanut,Madhya Pradesh,Chhindwara,38500
+Ashwagandha,Madhya Pradesh,Damoh,28500
+Banana,Madhya Pradesh,Datia,2800
+Barley,Madhya Pradesh,Dewas,1850
+Bengal Gram (Chana),Madhya Pradesh,Dhar,5700
+Bitter Gourd (Karela),Madhya Pradesh,Dindori,2600
+Black Gram (Urad),Madhya Pradesh,Guna,7850
+Black Pepper,Madhya Pradesh,Gwalior,52500
+Bottle Gourd (Lauki),Madhya Pradesh,Harda,1250
+Brinjal,Madhya Pradesh,Hoshangabad,1900
+Cabbage,Madhya Pradesh,Jabalpur,1200
+Capsicum,Madhya Pradesh,Jhabua,3950
+Cardamom (Elaichi),Madhya Pradesh,Katni,160500
+Carnation,Madhya Pradesh,Khandwa,11400
+Carrot,Madhya Pradesh,Khargone,2000
+Cashewnut,Madhya Pradesh,Mandla,8150
+Castor Seed,Madhya Pradesh,Mandsaur,6550
+Cauliflower,Madhya Pradesh,Morena,1700
+Chili (Red),Madhya Pradesh,Narsinghpur,1950
+Chrysanthemum,Madhya Pradesh,Neemuch,6650
+Cinnamon,Madhya Pradesh,Panna,26000
+Cloves,Madhya Pradesh,Raisen,72800
+Cocoa,Madhya Pradesh,Rajgarh,24200
+Coconut,Madhya Pradesh,Ratlam,2750
+Coffee,Madhya Pradesh,Rewa,26600
+Coriander,Madhya Pradesh,Sagar,6750
+Cotton,Madhya Pradesh,Satna,7450
+Cowpea (Lobia),Madhya Pradesh,Sehore,5650
+Cucumber,Madhya Pradesh,Seoni,1600
+Cumin (Jeera),Madhya Pradesh,Shahdol,33600
+Custard Apple,Madhya Pradesh,Shajapur,4200
+Drumstick (Moringa),Madhya Pradesh,Sheopur,2800
+Elephant Foot Yam (Suran),Madhya Pradesh,Shivpuri,2250
+Fennel (Saunf),Madhya Pradesh,Sidhi,13050
+Fenugreek (Methi),Madhya Pradesh,Singrauli,6400
+Finger Millet (Ragi),Madhya Pradesh,Tikamgarh,4150
+French Beans,Madhya Pradesh,Ujjain,4500
+Garlic,Madhya Pradesh,Umaria,10150
+Ginger,Madhya Pradesh,Vidisha,8300
+Grapes,Maharashtra,Ahmednagar,6900
+Green Chili,Maharashtra,Akola,2900
+Green Gram (Moong),Maharashtra,Amravati,8600
+Groundnut,Maharashtra,Aurangabad,6350
+Guava,Maharashtra,Beed,3150
+Jackfruit,Maharashtra,Bhandara,1500
+Jasmine,Maharashtra,Buldhana,11750
+Jute,Maharashtra,Chandrapur,4800
+Lemon,Maharashtra,Dhule,4950
+Lemongrass,Maharashtra,Gadchiroli,4900
+Lentil (Masur),Maharashtra,Gondia,6200
+Lime,Maharashtra,Hingoli,4950
+Linseed,Maharashtra,Jalgaon,5300
+Litchi,Maharashtra,Jalna,7900
+Mace,Maharashtra,Kolhapur,94500
+Maize,Maharashtra,Latur,2150
+Mango,Maharashtra,Mumbai City,6000
+Marigold,Maharashtra,Mumbai Suburban,2600
+Mentha (Pudina),Maharashtra,Nagpur,7650
+Mesta,Maharashtra,Nanded,4600
+Muskmelon,Maharashtra,Nandurbar,1200
+Niger Seed,Maharashtra,Osmanabad,7300
+Nutmeg,Maharashtra,Palghar,45900
+Oats,Maharashtra,Parbhani,2050
+Okra (Bhindi),Maharashtra,Raigad,2300
+Onion,Maharashtra,Ratnagiri,1800
+Orange,Maharashtra,Sangli,4550
+Orchid,Maharashtra,Satara,20000
+Paddy (Dhan),Maharashtra,Sindhudurg,2250
+Papaya,Maharashtra,Solapur,1950
+Peach,Maharashtra,Thane,5900
+Pear,Maharashtra,Wardha,5200
+Pearl Millet (Bajra),Maharashtra,Washim,2500
+Peas,Maharashtra,Yavatmal,3150
+Peas (Matar),Manipur,Bishnupur,4950
+Pigeon Peas (Arhar/Tur),Manipur,Chandel,7800
+Pineapple,Manipur,Churachandpur,3900
+Plum,Manipur,Imphal East,5800
+Pomegranate,Manipur,Imphal West,10050
+Potato,Manipur,Jiribam,1600
+Pumpkin,Manipur,Kakching,1050
+Radish,Manipur,Kamjong,1200
+Rajma,Manipur,Kangpokpi,8250
+Rapeseed & Mustard,Manipur,Noney,6300
+Ridge Gourd (Torai),Manipur,Pherzawl,1900
+Rose,Manipur,Senapati,8700
+Rubber,Manipur,Tamenglong,15450
+Safflower,Manipur,Tengnoupal,6550
+Sesame (Til),Manipur,Thoubal,8850
+Sorghum (Jowar),Manipur,Ukhrul,3400
+Soybean,Meghalaya,East Garo Hills,4300
+Spinach,Meghalaya,East Jaintia Hills,1300
+Strawberry,Meghalaya,East Khasi Hills,11600
+Sugarcane,Meghalaya,North Garo Hills,290
+Sunflower,Meghalaya,Ri Bhoi,6200
+Sweet Potato,Meghalaya,South Garo Hills,1550
+Tamarind,Meghalaya,South West Garo Hills,3250
+Tea,Meghalaya,South West Khasi Hills,17100
+Tobacco,Meghalaya,West Garo Hills,8800
+Tomato,Meghalaya,West Jaintia Hills,2150
+Tulip,Meghalaya,West Khasi Hills,23000
+Tulsi (Basil),Mizoram,Aizawl,4350
+Turmeric,Mizoram,Champhai,7850
+Turnip,Mizoram,Kolasib,1200
+Watermelon,Mizoram,Lawngtlai,830
+Wheat,Mizoram,Lunglei,2500
+Aloe Vera,Mizoram,Mamit,1250
+Anthurium,Mizoram,Saiha,15150
+Apple,Mizoram,Serchhip,8050
+Arecanut,Nagaland,Dimapur,36400
+Ashwagandha,Nagaland,Kiphire,27250
+Banana,Nagaland,Kohima,2750
+Barley,Nagaland,Longleng,1850
+Bengal Gram (Chana),Nagaland,Mokokchung,5650
+Bitter Gourd (Karela),Nagaland,Mon,2650
+Black Gram (Urad),Nagaland,Peren,7400
+Black Pepper,Nagaland,Phek,55500
+Bottle Gourd (Lauki),Nagaland,Tuensang,1300
+Brinjal,Nagaland,Wokha,1950
+Cabbage,Nagaland,Zunheboto,1300
+Capsicum,Odisha,Angul,3350
+Cardamom (Elaichi),Odisha,Balangir,144000
+Carnation,Odisha,Balasore,9600
+Carrot,Odisha,Bargarh,1550
+Cashewnut,Odisha,Bhadrak,6800
+Castor Seed,Odisha,Boudh,5850
+Cauliflower,Odisha,Cuttack,1500
+Chili (Red),Odisha,Deogarh,1700
+Chrysanthemum,Odisha,Dhenkanal,5300
+Cinnamon,Odisha,Gajapati,23500
+Cloves,Odisha,Ganjam,59150
+Cocoa,Odisha,Jagatsinghapur,21300
+Coconut,Odisha,Jajpur,2400
+Coffee,Odisha,Jharsuguda,21600
+Coriander,Odisha,Kalahandi,6150
+Cotton,Odisha,Kandhamal,6000
+Cowpea (Lobia),Odisha,Kendrapara,4850
+Cucumber,Odisha,Kendujhar Keonjhar,1300
+Cumin (Jeera),Odisha,Khordha,26400
+Custard Apple,Odisha,Koraput,3600
+Drumstick (Moringa),Odisha,Malkangiri,2250
+Elephant Foot Yam (Suran),Odisha,Mayurbhanj,1900
+Fennel (Saunf),Odisha,Nabarangpur,11500
+Fenugreek (Methi),Odisha,Nayagarh,5700
+Finger Millet (Ragi),Odisha,Nuapada,3400
+French Beans,Odisha,Puri,3450
+Garlic,Odisha,Rayagada,8450
+Ginger,Odisha,Sambalpur,7000
+Grapes,Odisha,Sonepur,6350
+Green Chili,Odisha,Sundargarh,2600
+Green Gram (Moong),Puducherry,Karaikal,8200
+Groundnut,Puducherry,Mahe,5700
+Guava,Puducherry,Pondicherry,2650
+Jackfruit,Puducherry,Yanam,1350
+Jasmine,Punjab,Barnala,12800
+Jute,Punjab,Bathinda,5300
+Lemon,Punjab,Faridkot,5100
+Lemongrass,Punjab,Fatehgarh Sahib,4950
+Lentil (Masur),Punjab,Fazilka,6550
+Lime,Punjab,Ferozepur,4650
+Linseed,Punjab,Gurdaspur,5750
+Litchi,Punjab,Hoshiarpur,8050
+Mace,Punjab,Jalandhar,93600
+Maize,Punjab,Kapurthala,2000
+Mango,Punjab,Mansa,6350
+Marigold,Punjab,Moga,2650
+Mentha (Pudina),Punjab,Muktsar,8200
+Mesta,Punjab,Nawanshahr Shahid Bhagat Singh Nagar,4900
+Muskmelon,Punjab,Pathankot,1200
+Niger Seed,Punjab,Patiala,7500
+Nutmeg,Punjab,Rupnagar,48150
+Oats,Punjab,Sahibzada Ajit Singh Nagar Mohali,2050
+Okra (Bhindi),Punjab,Sangrur,2250
+Onion,Punjab,Tarn Taran,1800
+Orange,Rajasthan,Alwar,4150
+Orchid,Rajasthan,Banswara,18800
+Paddy (Dhan),Rajasthan,Baran,2100
+Papaya,Rajasthan,Barmer,2000
+Peach,Rajasthan,Bharatpur,5600
+Pear,Rajasthan,Bhilwara,4650
+Pearl Millet (Bajra),Rajasthan,Bikaner,2300
+Peas,Rajasthan,Bundi,3000
+Peas (Matar),Rajasthan,Chittorgarh,4450
+Pigeon Peas (Arhar/Tur),Rajasthan,Churu,6650
+Pineapple,Rajasthan,Dausa,3500
+Plum,Rajasthan,Dholpur,5250
+Pomegranate,Rajasthan,Dungarpur,8350
+Potato,Rajasthan,Hanumangarh,1500
+Pumpkin,Rajasthan,Jaisalmer,950
+Radish,Rajasthan,Jalore,1050
+Rajma,Rajasthan,Jhalawar,6800
+Rapeseed & Mustard,Rajasthan,Jhunjhunu,5350
+Ridge Gourd (Torai),Rajasthan,Jodhpur,1650
+Rose,Rajasthan,Karauli,8050
+Rubber,Rajasthan,Kota,14400
+Safflower,Rajasthan,Nagaur,5850
+Sesame (Til),Rajasthan,Pali,8500
+Sorghum (Jowar),Rajasthan,Pratapgarh,3100
+Soybean,Rajasthan,Rajsamand,4400
+Spinach,Rajasthan,Sawai Madhopur,1300
+Strawberry,Rajasthan,Sikar,11400
+Sugarcane,Rajasthan,Sirohi,290
+Sunflower,Rajasthan,Sri Ganganagar,6750
+Sweet Potato,Rajasthan,Tonk,1500
+Tamarind,Rajasthan,Udaipur,3500
+Tea,Sikkim,East Sikkim,16550
+Tobacco,Sikkim,North Sikkim,9000
+Tomato,Sikkim,South Sikkim,2100
+Tulip,Sikkim,West Sikkim,21500
+Tulsi (Basil),Tamil Nadu,Ariyalur,4500
+Turmeric,Tamil Nadu,Chennai,8550
+Turnip,Tamil Nadu,Coimbatore,1250
+Watermelon,Tamil Nadu,Cuddalore,870
+Wheat,Tamil Nadu,Dharmapuri,2400
+Aloe Vera,Tamil Nadu,Dindigul,1300
+Anthurium,Tamil Nadu,Erode,16800
+Apple,Tamil Nadu,Kanchipuram,8850
+Arecanut,Tamil Nadu,Kanyakumari,36750
+Ashwagandha,Tamil Nadu,Karur,28500
+Banana,Tamil Nadu,Krishnagiri,2700
+Barley,Tamil Nadu,Madurai,1850
+Bengal Gram (Chana),Tamil Nadu,Nagapattinam,6250
+Bitter Gourd (Karela),Tamil Nadu,Namakkal,2700
+Black Gram (Urad),Tamil Nadu,Nilgiris,7950
+Black Pepper,Tamil Nadu,Perambalur,54000
+Bottle Gourd (Lauki),Tamil Nadu,Pudukkottai,1350
+Brinjal,Tamil Nadu,Ramanathapuram,1950
+Cabbage,Tamil Nadu,Salem,1250
+Capsicum,Tamil Nadu,Sivaganga,3850
+Cardamom (Elaichi),Tamil Nadu,Thanjavur,171000
+Carnation,Tamil Nadu,Theni,11200
+Carrot,Tamil Nadu,Thoothukudi Tuticorin,2000
+Cashewnut,Tamil Nadu,Tiruchirappalli,8250
+Castor Seed,Tamil Nadu,Tirunelveli,7000
+Cauliflower,Tamil Nadu,Tiruppur,1700
+Chili (Red),Tamil Nadu,Tiruvallur,2050
+Chrysanthemum,Tamil Nadu,Tiruvannamalai,6400
+Cinnamon,Tamil Nadu,Tiruvarur,26750
+Cloves,Tamil Nadu,Vellore,72150
+Cocoa,Tamil Nadu,Viluppuram,24400
+Coconut,Tamil Nadu,Virudhunagar,2700
+Coffee,Telangana,Adilabad,24700
+Coriander,Telangana,Bhadradri Kothagudem,6750
+Cotton,Telangana,Hyderabad,6650
+Cowpea (Lobia),Telangana,Jagtial,4900
+Cucumber,Telangana,Jangaon,1450
+Cumin (Jeera),Telangana,Jayashankar Bhoopalpally,29700
+Custard Apple,Telangana,Jogulamba Gadwal,4000
+Drumstick (Moringa),Telangana,Kamareddy,2400
+Elephant Foot Yam (Suran),Telangana,Karimnagar,2150
+Fennel (Saunf),Telangana,Khammam,12600
+Fenugreek (Methi),Telangana,Komaram Bheem Asifabad,6200
+Finger Millet (Ragi),Telangana,Mahabubabad,3750
+French Beans,Telangana,Mahabubnagar,3800
+Garlic,Telangana,Mancherial,8800
+Ginger,Telangana,Medak,8400
+Grapes,Telangana,Medchal,7200
+Green Chili,Telangana,Nagarkurnool,3000
+Green Gram (Moong),Telangana,Nalgonda,8800
+Groundnut,Telangana,Nirmal,6500
+Guava,Telangana,Nizamabad,3150
+Jackfruit,Telangana,Peddapalli,1400
+Jasmine,Telangana,Rajanna Sircilla,12100
+Jute,Telangana,Rangareddy,5250
+Lemon,Telangana,Sangareddy,5100
+Lemongrass,Telangana,Siddipet,5300
+Lentil (Masur),Telangana,Suryapet,6250
+Lime,Telangana,Vikarabad,4600
+Linseed,Telangana,Wanaparthy,5500
+Litchi,Telangana,Warangal Rural,8300
+Mace,Telangana,Warangal Urban,91800
+Maize,Telangana,Yadadri Bhuvanagiri,2150
+Mango,Tripura,Dhalai,6400
+Marigold,Tripura,Gomati,2500
+Mentha (Pudina),Tripura,Khowai,7900
+Mesta,Tripura,North Tripura,4900
+Muskmelon,Tripura,Sepahijala,1250
+Niger Seed,Tripura,South Tripura,8250
+Nutmeg,Tripura,Unakoti,45900
+Oats,Tripura,West Tripura,2100
+Okra (Bhindi),Uttar Pradesh,Aligarh,2100
+Onion,Uttar Pradesh,Allahabad,1900
+Orange,Uttar Pradesh,Ambedkar Nagar,4550
+Orchid,Uttar Pradesh,Amethi Chatrapati Sahuji Mahraj Nagar,20600
+Paddy (Dhan),Uttar Pradesh,Amroha JP Nagar,2200
+Papaya,Uttar Pradesh,Auraiya,1950
+Peach,Uttar Pradesh,Azamgarh,6150
+Pear,Uttar Pradesh,Baghpat,5300
+Pearl Millet (Bajra),Uttar Pradesh,Bahraich,2550
+Peas,Uttar Pradesh,Ballia,3200
+Peas (Matar),Uttar Pradesh,Balrampur,4600
+Pigeon Peas (Arhar/Tur),Uttar Pradesh,Banda,7250
+Pineapple,Uttar Pradesh,Barabanki,3400
+Plum,Uttar Pradesh,Bareilly,5550
+Pomegranate,Uttar Pradesh,Basti,9450
+Potato,Uttar Pradesh,Bhadohi,1500
+Pumpkin,Uttar Pradesh,Bijnor,1000
+Radish,Uttar Pradesh,Budaun,1050
+Rajma,Uttar Pradesh,Bulandshahr,7250
+Rapeseed & Mustard,Uttar Pradesh,Chandauli,5750
+Ridge Gourd (Torai),Uttar Pradesh,Chitrakoot,1800
+Rose,Uttar Pradesh,Deoria,7800
+Rubber,Uttar Pradesh,Etah,14400
+Safflower,Uttar Pradesh,Etawah,6000
+Sesame (Til),Uttar Pradesh,Faizabad,9050
+Sorghum (Jowar),Uttar Pradesh,Farrukhabad,3050
+Soybean,Uttar Pradesh,Fatehpur,4650
+Spinach,Uttar Pradesh,Firozabad,1450
+Strawberry,Uttar Pradesh,Gautam Buddha Nagar,12450
+Sugarcane,Uttar Pradesh,Ghaziabad,330
+Sunflower,Uttar Pradesh,Ghazipur,7150
+Sweet Potato,Uttar Pradesh,Gonda,1650
+Tamarind,Uttar Pradesh,Gorakhpur,3600
+Tea,Uttar Pradesh,Hamirpur,18150
+Tobacco,Uttar Pradesh,Hapur Panchsheel Nagar,9300
+Tomato,Uttar Pradesh,Hardoi,2350
+Tulip,Uttar Pradesh,Hathras,25000
+Tulsi (Basil),Uttar Pradesh,Jalaun,4000
+Turmeric,Uttar Pradesh,Jaunpur,7500
+Turnip,Uttar Pradesh,Jhansi,1250
+Watermelon,Uttar Pradesh,Kannauj,810
+Wheat,Uttar Pradesh,Kanpur Dehat,2200
+Aloe Vera,Uttar Pradesh,Kanpur Nagar,1150
+Anthurium,Uttar Pradesh,Kanshiram Nagar Kasganj,14850
+Apple,Uttar Pradesh,Kaushambi,8050
+Arecanut,Uttar Pradesh,Kushinagar Padrauna,37100
+Ashwagandha,Uttar Pradesh,Lakhimpur Kheri,25500
+Banana,Uttar Pradesh,Lalitpur,2400
+Barley,Uttar Pradesh,Lucknow,1700
+Bengal Gram (Chana),Uttar Pradesh,Maharajganj,5750
+Bitter Gourd (Karela),Uttar Pradesh,Mahoba,2550
+Black Gram (Urad),Uttar Pradesh,Mainpuri,7250
+Black Pepper,Uttar Pradesh,Mathura,50500
+Bottle Gourd (Lauki),Uttar Pradesh,Mau,1250
+Brinjal,Uttar Pradesh,Mirzapur,1750
+Cabbage,Uttar Pradesh,Moradabad,1150
+Capsicum,Uttar Pradesh,Muzaffarnagar,3700
+Cardamom (Elaichi),Uttar Pradesh,Pilibhit,151500
+Carnation,Uttar Pradesh,Pratapgarh,10300
+Carrot,Uttar Pradesh,RaeBareli,1750
+Cashewnut,Uttar Pradesh,Rampur,7500
+Castor Seed,Uttar Pradesh,Saharanpur,6100
+Cauliflower,Uttar Pradesh,Sambhal Bhim Nagar,1600
+Chili (Red),Uttar Pradesh,Sant Kabir Nagar,1900
+Chrysanthemum,Uttar Pradesh,Shahjahanpur,5800
+Cinnamon,Uttar Pradesh,Shamali Prabuddh Nagar,24500
+Cloves,Uttar Pradesh,Shravasti,68900
+Cocoa,Uttar Pradesh,Siddharth Nagar,21550
+Coconut,Uttar Pradesh,Sitapur,2600
+Coffee,Uttar Pradesh,Sonbhadra,25400
+Coriander,Uttar Pradesh,Sultanpur,6600
+Cotton,Uttar Pradesh,Unnao,6450
+Cowpea (Lobia),Uttar Pradesh,Varanasi,5200
+Cucumber,Uttarakhand,Almora,1600
+Cumin (Jeera),Uttarakhand,Bageshwar,30600
+Custard Apple,Uttarakhand,Chamoli,4300
+Drumstick (Moringa),Uttarakhand,Champawat,2600
+Elephant Foot Yam (Suran),Uttarakhand,Dehradun,2350
+Fennel (Saunf),Uttarakhand,Haridwar,12450
+Fenugreek (Methi),Uttarakhand,Nainital,6700
+Finger Millet (Ragi),Uttarakhand,Pauri Garhwal,4050
+French Beans,Uttarakhand,Pithoragarh,4350
+Garlic,Uttarakhand,Rudraprayag,9500
+Ginger,Uttarakhand,Tehri Garhwal,8200
+Grapes,Uttarakhand,Udham Singh Nagar,7600
+Green Chili,Uttarakhand,Uttarkashi,3300
+Green Gram (Moong),West Bengal,Alipurduar,8450
+Groundnut,West Bengal,Bankura,5850
+Guava,West Bengal,Birbhum,2750
+Jackfruit,West Bengal,Burdwan Bardhaman,1500
+Jasmine,West Bengal,Cooch Behar,11500
+Jute,West Bengal,Dakshin Dinajpur South Dinajpur,5150
+Lemon,West Bengal,Darjeeling,5000
+Lemongrass,West Bengal,Hooghly,4900
+Lentil (Masur),West Bengal,Howrah,6000
+Lime,West Bengal,Jalpaiguri,4750
+Linseed,West Bengal,Kalimpong,5150
+Litchi,West Bengal,Kolkata,7350
+Mace,West Bengal,Malda,89100
+Maize,West Bengal,Murshidabad,1900
+Mango,West Bengal,Nadia,5500
+Marigold,West Bengal,North Twenty Four Parganas,2300
+Mentha (Pudina),West Bengal,Paschim Medinipur West Medinipur,8000
+Mesta,West Bengal,Purba Medinipur East Medinipur,4450
+Muskmelon,West Bengal,Purulia,1100
+Niger Seed,West Bengal,South Twenty Four Parganas,7800
+Nutmeg,West Bengal,Uttar Dinajpur North Dinajpur,45900
