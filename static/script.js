@@ -434,3 +434,29 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 });
+// ---------- State -> District Dropdown ----------
+
+const stateSelect = document.getElementById("stateSelect");
+const districtSelect = document.getElementById("districtSelect");
+
+if (stateSelect && districtSelect && window.JINJA_DATA.stateDistricts) {
+
+    function loadDistricts() {
+        districtSelect.innerHTML =
+            '<option value="">Select District</option>';
+
+        const districts =
+            window.JINJA_DATA.stateDistricts[stateSelect.value] || [];
+
+        districts.forEach(function(district) {
+            const option = document.createElement("option");
+            option.value = district;
+            option.textContent = district;
+            districtSelect.appendChild(option);
+        });
+    }
+
+    stateSelect.addEventListener("change", loadDistricts);
+
+    loadDistricts();
+}

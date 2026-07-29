@@ -60,6 +60,11 @@ def build_model():
 
 MODEL, TRAINING_DATA, MODEL_SCORE = build_model()
 
+STATE_DISTRICTS = (
+    TRAINING_DATA.groupby("state")["district"]
+    .apply(lambda x: sorted(x.dropna().unique()))
+    .to_dict()
+)
 
 @app.context_processor
 def inject_global_template_data():
@@ -83,6 +88,7 @@ def inject_global_template_data():
         "selected_state": selected_state,
         "selected_district": selected_district,
         "crop_averages": crop_averages,
+        "state_districts": STATE_DISTRICTS,
         "prediction": None,
         "predicted_price": None,
         "confidence": None
@@ -109,14 +115,11 @@ def validate_inputs(crop, state, district):
     elif state not in valid_states:
         errors.append("Selected state is not available in the training data.")
 
-    if not district:
-        errors.append("Please enter a district name.")
-    elif not district.replace(" ", "").isalpha():
-        errors.append("District should contain only letters.")
-
-    return crop, state, district, errors
-
-
+if not district:
+    errors.append("Please select a district.")
+elif district not in STATE_DISTRICTS.get(state, []):
+    errors.append("Please select a valid district for the selected state.")
+    
 def calculate_confidence(crop, state, district):
     base_confidence = max(0, min(95, int(round((MODEL_SCORE + 1) * 50))))
 
