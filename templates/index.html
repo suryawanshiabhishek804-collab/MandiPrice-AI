@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MandiPrice AI - Smart Crop Price Prediction</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="stylesheet"
+        href="https://unpkg.com/aos@next/dist/aos.css" />
+</head>
+
+<body>
+
+<header>
+    <h2><i class="fa-solid fa-seedling"></i> MandiPrice AI</h2>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#predict-form">Predictor</a>
+        <a href="#stats">Market Stats</a>
+        <a href="#features">Features</a>
+    </nav>
+</header>
+
+<section class="hero">
+
+<div class="left">
+
+<h1>
+Predict Tomorrow's
+<span>Crop Prices</span>
+Today.
+</h1>
+
+<p>
+AI Powered Crop Price Prediction System
+</p>
+
+<button onclick="document.getElementById('predict-form').scrollIntoView({behavior:'smooth'})">
+Go To Predictor
+</button>
+
+</div>
+
+<div class="right">
+
+</div>
+
+</section>
+<section id="predict-form" class="predict-section">
+
+    <div class="container">
+
+        <h2>Crop Price Predictor</h2>
+        <p>Select the crop and location to predict the expected market price.</p>
+
+        <form method="POST" action="/predict">
+
+            <div class="form-group">
+                <label>Crop</label>
+                <select name="commodity" required>
+                    <option value="">Select Crop</option>
+                    {% for crop in commodities %}
+                    <option value="{{ crop }}">{{ crop }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>State</label>
+                <select id="state" name="state" required>
+                    <option value="">Select State</option>
+                    {% for state in states %}
+                    <option value="{{ state }}">{{ state }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>District</label>
+                <select id="district" name="district" required>
+                    <option value="">Select District</option>
+                </select>
+            </div>
+
+            <button type="submit">
+                Predict Price
+            </button>
+
+        </form>
+
+    </div>
+
+</section>
+<section id="result-section" class="result-section">
+
+    {% if prediction %}
+
+    <div class="result-card">
+
+        <h2>Prediction Result</h2>
+
+        <h3>{{ commodity }}</h3>
+
+        <p><strong>State:</strong> {{ state }}</p>
+
+        <p><strong>District:</strong> {{ district }}</p>
+
+        <h1>₹ {{ prediction }}/Quintal</h1>
+
+        {% if recommendation %}
+        <div class="recommendation-box">
+            <h3>AI Recommendation</h3>
+            <p>{{ recommendation }}</p>
+        </div>
+        {% endif %}
+
+    </div>
+
+    {% endif %}
+
+</section>
+
+<section id="stats" class="stats-section">
+
+    <div class="stats-container">
+
+        <div class="stat-card">
+            <h2>500+</h2>
+            <p>Markets Covered</p>
+        </div>
+
+        <div class="stat-card">
+            <h2>50+</h2>
+            <p>Crops Supported</p>
+        </div>
+
+        <div class="stat-card">
+            <h2>95%</h2>
+            <p>Prediction Accuracy</p>
+        </div>
+
+        <div class="stat-card">
+            <h2>24x7</h2>
+            <p>Availability</p>
+        </div>
+
+    </div>
+
+</section>
