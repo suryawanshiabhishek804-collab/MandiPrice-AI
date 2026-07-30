@@ -115,10 +115,14 @@ def validate_inputs(crop, state, district):
     elif state not in valid_states:
         errors.append("Selected state is not available in the training data.")
 
-if not district:
-    errors.append("Please select a district.")
-elif district not in STATE_DISTRICTS.get(state, []):
-    errors.append("Please select a valid district for the selected state.")
+    if not district:
+        errors.append("Please select a district.")
+    elif district not in STATE_DISTRICTS.get(state, []):
+        errors.append("Please select a valid district for the selected state.")
+
+    return crop, state, district, errors
+
+
     
 def calculate_confidence(crop, state, district):
     base_confidence = max(0, min(95, int(round((MODEL_SCORE + 1) * 50))))
